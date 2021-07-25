@@ -1,3 +1,3 @@
 # Sudoo-Assertion
 
-ssertion!
+Assertion!
